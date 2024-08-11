@@ -1,1 +1,1 @@
-# meurepositorio
+# Repositório criado para a atividade prática do Hackers do Bem - Especialização Bluteam
